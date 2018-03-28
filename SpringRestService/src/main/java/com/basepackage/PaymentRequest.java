@@ -1,4 +1,4 @@
-package com.baseclasses;
+package com.basepackage;
 
 //Payment request class which should be submitted by clients on 
 //each payment request

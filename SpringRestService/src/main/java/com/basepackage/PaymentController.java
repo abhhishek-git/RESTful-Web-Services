@@ -1,4 +1,4 @@
-package com.baseclasses;
+package com.basepackage;
 
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

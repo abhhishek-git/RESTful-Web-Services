@@ -1,4 +1,4 @@
-package com.baseclasses;
+package com.basepackage;
 
 //Base response returned back from our service
 public class BaseResponse {
